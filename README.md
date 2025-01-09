@@ -1,2 +1,0 @@
-# Colorful MC
-## Cs
